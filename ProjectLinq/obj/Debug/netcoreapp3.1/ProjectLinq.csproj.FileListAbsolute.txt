@@ -1,0 +1,13 @@
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.exe
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.deps.json
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.runtimeconfig.json
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.runtimeconfig.dev.json
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.dll
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\bin\Debug\netcoreapp3.1\ProjectLinq.pdb
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.csprojAssemblyReference.cache
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.AssemblyInfoInputs.cache
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.AssemblyInfo.cs
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.dll
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.pdb
+C:\Users\Sandr\source\repos\ProjectLinq\ProjectLinq\obj\Debug\netcoreapp3.1\ProjectLinq.genruntimeconfig.cache
